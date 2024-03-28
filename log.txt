@@ -1,0 +1,34 @@
+{"level":"info","message":"/api/users/signup - {\"email\":\"seller@ecom.com\",\"password\":\"123456\",\"name\":\"rishabh\",\"type\":\"seller\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup - {\"email\":\"seller@ecom.com\",\"password\":\"123456\",\"name\":\"rishabh\",\"type\":\"seller\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup - {\"email\":\"seller@ecom.com\",\"password\":\"123456\",\"name\":\"rishabh\",\"type\":\"seller\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup - {\"email\":\"seller@ecom.com\",\"password\":\"123456\",\"name\":\"rishabh\",\"type\":\"seller\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup - {\"email\":\"sellr@ecom.com\",\"password\":\"12345\",\"name\":\"rishabh\",\"type\":\"seller\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup - {\"email\":\"sellr@ecom.com\",\"password\":\"12345\",\"name\":\"rishabh\",\"type\":\"seller\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup - {\"email\":\"sellr@eom.com\",\"password\":\"12345\",\"name\":\"rishabh\",\"type\":\"seller\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup - {\"email\":\"sellr3@eom.com\",\"password\":\"12345\",\"name\":\"seller 4\",\"type\":\"seller\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup - {\"email\":\"sellr77@eom.com\",\"password\":\"123453333\",\"name\":\"seller 4\",\"type\":\"seller\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup - {\"email\":\"sellr22@eom.com\",\"password\":\"12345333\",\"name\":\"seller 45\",\"type\":\"seller\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup - {\"email\":\"sellr22@eom.com\",\"password\":\"12345333\",\"name\":\"seller 45\",\"type\":\"seller\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup - {\"email\":\"seller123@eom.com\",\"password\":\"987654321\",\"name\":\"rishabh shrama\",\"type\":\"seller\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup - {\"name\":\"rishabh\",\"email\":\"rishabh123@gmail.com\",\"password\":\"987654321\",\"type\":\"seller\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup - {\"email\":\"rishabh123@gmail.com\",\"password\":\"987654321\"}","service":"request-logging"}
+{"level":"info","message":"/api/products - {\"name\":\"book\",\"price\":\"2300\",\"size\":[\"l\",\"m\"]}","service":"request-logging"}
+{"level":"info","message":"/api/products - {\"name\":\"book\",\"price\":\"2300\",\"size\":[\"l\",\"m\"]}","service":"request-logging"}
+{"level":"info","message":"/api/products - {\"name\":\"book\",\"price\":\"2300\",\"size\":[\"l\",\"m\"]}","service":"request-logging"}
+{"level":"info","message":"/api/products - {\"name\":\"book\",\"price\":\"2300\",\"size\":[\"l\",\"m\"]}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup - {\"name\":\"sharma\",\"email\":\"sharma123@gmail.com\",\"password\":\"987654321\",\"type\":\"seller\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup - {\"name\":\"sharma\",\"email\":\"sharma123@gmail.com\",\"password\":\"987654321\",\"type\":\"seller\"}","service":"request-logging"}
+{"level":"info","message":"/api/products - {\"name\":\"book\",\"price\":\"2300\",\"size\":[\"l\",\"m\"]}","service":"request-logging"}
+{"level":"info","message":"/api/products - {\"name\":\"book\",\"price\":\"2300\",\"size\":[\"l\",\"m\"]}","service":"request-logging"}
+{"level":"info","message":"/api/products - {\"name\":\"book\",\"price\":\"2300\",\"size\":[\"l\",\"m\"]}","service":"request-logging"}
+{"level":"info","message":"/api/products - {\"name\":\"book\",\"price\":\"2300\",\"size\":[\"l\",\"m\"],\"imageUrl\":\"jnp.jpg\"}","service":"request-logging"}
+{"level":"info","message":"/api/products - {\"name\":\"book\",\"price\":\"2300\",\"sizes\":[\"l\",\"m\"],\"imageUrl\":\"jnp.jpg\"}","service":"request-logging"}
+{"level":"info","message":"/api/products - {\"name\":\"book\",\"price\":\"2300\",\"sizes\":[\"l\",\"m\"],\"imageUrl\":\"jnp.jpg\"}","service":"request-logging"}
+{"level":"info","message":"/api/products - {\"name\":\"book\",\"price\":\"2300\",\"sizes\":\"l,m,s\",\"imageUrl\":\"jnp.jpg\"}","service":"request-logging"}
+{"level":"info","message":"/api/products - {\"name\":\"book\",\"price\":\"2300\",\"sizes\":\"l,m,s\",\"imageUrl\":\"jnp.jpg\"}","service":"request-logging"}
+{"level":"info","message":"/api/products - {\"name\":\"book\",\"desc\":\"yes\",\"price\":\"2300\",\"imageUrl\":\"jnp.jpg\",\"category\":\"l\",\"sizes\":\"l,m,s\"}","service":"request-logging"}
+{"level":"info","message":"/api/cartItems - {\"productId\":\"65c77b701ba33bde3d0b8d30\",\"quantity\":\"2\"}","service":"request-logging"}
+{"level":"info","message":"/api/cartItems - {\"productId\":\"65c77b701ba33bde3d0b8d30\",\"quantity\":\"2\"}","service":"request-logging"}
+{"level":"info","message":"/api/cartItems - {\"productId\":\"65c77b701ba33bde3d0b8d30\",\"quantity\":\"2\"}","service":"request-logging"}
+{"level":"info","message":"/api/cartItems - {\"productId\":\"65c77b701ba33bde3d0b8d30\",\"quantity\":\"2\"}","service":"request-logging"}
+{"level":"info","message":"/api/cartItems - {\"productId\":\"65c77b701ba33bde3d0b8d30\",\"quantity\":\"2\"}","service":"request-logging"}
